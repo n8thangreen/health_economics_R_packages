@@ -9,11 +9,12 @@ A guide to some R packages that we know about for health economic analysis.
 Health economics analysis
 -------------------------
 
-1.  [Decision trees](#decisiontree) 
-2.  [Multistate/micro-simulation models](#multistatemodel)
-3.  [Optimal decision process](#optdecisionprocess)
-4.  [Cost-effectiveness analysis](#costeffectiveness)
+1.  [Decision trees](#decision-trees) 
+2.  [Multistate/micro-simulation models](#multistatemicrosimulation-models)
+3.  [Optimal decision process](#optimal-decision-processes)
+4.  [Cost-effectiveness analysis](#cost-effectiveness-analysis)
 5.  [Visualisation](#visualisation)
+6.  [Data](#data)
 
 Below we list the most useful R packages that we know of for each area.
 
@@ -30,7 +31,7 @@ These packages help you build and navigate tree-like objects.
 -   [jsonvalidate](https://github.com/hadley/dplyr) - Validate 'JSON'
 
 
-Multistate/micro-simulation models
+Multistate/microsimulation models
 ----------------------------------
 
 These packages help you simulate populations at individual or group levels.
