@@ -123,17 +123,35 @@ $(document).ready(function () {
 <h1>Health Economics R Packages</h1>
 <p>A guide to some R packages that we know about for health economic analysis.</p>
 <p><a href="https://github.com/n8thangreen/health_economics_R_packages/edit/master/README.Rmd">Click here to suggest packages.</a></p>
-<div id="health-economics-analysis" class="section level2">
-<h2>Health economics analysis</h2>
+<div id="overview" class="section level2">
+<h2>Overview</h2>
+<p>The packages are generally in one of two groups. Either they are specifically designed to perform (some part of) a cost-effectiveness analysis or they are more generic and can be applied to this context.</p>
+<ol style="list-style-type: decimal">
+<li><p><a href="#cost-effectiveness-analysis">Cost-effectiveness packages</a></p></li>
+<li>Generic packages
 <ol style="list-style-type: decimal">
 <li><a href="#decision-trees">Decision trees</a></li>
 <li><a href="#multistatemicrosimulation-models">Multistate/micro-simulation models</a></li>
 <li><a href="#optimal-decision-processes">Optimal decision process</a></li>
-<li><a href="#cost-effectiveness-analysis">Cost-effectiveness analysis</a></li>
 <li><a href="#visualisation">Visualisation</a></li>
 <li><a href="#data">Data</a></li>
+<li><a href="#miscellaneous">Miscellaneous</a></li>
+</ol></li>
 </ol>
 <p>Below we list the most useful R packages that we know of for each area.</p>
+</div>
+<div id="cost-effectiveness-analysis" class="section level2">
+<h2>Cost-effectiveness analysis</h2>
+<ul>
+<li><a href="https://cran.r-project.org/web/packages/BCEA/index.html">BCEA</a> - Bayesian Cost Effectiveness Analysis</li>
+<li><a href="https://cran.r-project.org/web/packages/DALY/index.html">DALY</a> - The DALY Calculator - Graphical User Interface for Probabilistic DALY Calculation in R</li>
+<li><a href="https://cran.r-project.org/web/packages/heemod/index.html">heemod</a> - Models for Health Economic Evaluation</li>
+<li><a href>iSQoL2</a> - Integration of Survival with QoL or Cost</li>
+<li><a href="http://vnijs.github.io/radiant/">radiant</a> - Business Analytics using R and Shiny</li>
+<li><a href="https://cran.r-project.org/web/packages/QoLR/index.html">QoLR</a> - Analysis of Health-Related Quality of Life in Oncology</li>
+<li><a href="https://cran.rstudio.com/web/packages/PROscorer/index.html">PROscorer</a> - Functions to Score Commonly-Used Patient-Reported Outcome (PRO) Measures and Other Psychometric Instruments</li>
+<li><a href="http://arvore.r-forge.r-project.org/">ArvoRe</a> - Cost-effectiveness Analysis (CEA) implementation for R oriented to compute problems that involve simple decision tree models and Markov models. It offer a graphic user interface (GUI) developed in Tcl/Tk. This graphical interface simplifies the decision tree creation task and its manipulation, such as, nodes addition, probability values definition, node kind configuration, etc.</li>
+</ul>
 </div>
 <div id="decision-trees" class="section level2">
 <h2>Decision trees</h2>
@@ -148,17 +166,12 @@ $(document).ready(function () {
 </div>
 <div id="multistatemicrosimulation-models" class="section level2">
 <h2>Multistate/microsimulation models</h2>
-<p>These packages help you simulate populations at individual or group levels.</p>
+<p>The related area of survival analysis has its own <a href="https://cran.r-project.org/web/views/Survival.html">CRAN Task View: Survival Analysis</a>. This also has a multistate models section and a Simulation section with useful packages. These packages help you simulate populations at individual or group levels.</p>
+<p>Some package not included:</p>
 <ul>
-<li><a href="https://cran.r-project.org/web/packages/mstate/index.html">mstate</a> - Data Preparation, Estimation and Prediction in Multi-State Models</li>
-<li><a href="https://cran.r-project.org/web/packages/etm/index.html">etm</a> - Empirical Transition Matrix</li>
-<li><a href="https://cran.r-project.org/web/packages/flexsurv/index.html">flexsurv</a> - Flexible Parametric Survival and Multi-State Models</li>
 <li><a href="https://cran.r-project.org/web/packages/ggm/index.html">ggm</a> - Functions for graphical Markov models</li>
-<li><p><a href="https://cran.r-project.org/web/packages/msm/index.html">msm</a> - Multi-State Markov and Hidden Markov Models in Continuous Time</p></li>
-<li><a href="https://cran.r-project.org/web/packages/MicSim/index.html">MicSim</a> - Performing Continuous-Time Microsimulation</li>
-<li><p><a href="https://cran.r-project.org/web/packages/rakeR/index.html">rakeR</a> - Easy Spatial Microsimulation (Raking) in R</p></li>
+<li><a href="https://cran.r-project.org/web/packages/rakeR/index.html">rakeR</a> - Easy Spatial Microsimulation (Raking) in R</li>
 </ul>
-<p>The closely related area of survival analysis has its own <a href="https://cran.r-project.org/web/views/Survival.html">CRAN Task View</a></p>
 </div>
 <div id="optimal-decision-processes" class="section level2">
 <h2>Optimal decision processes</h2>
@@ -166,20 +179,6 @@ $(document).ready(function () {
 <p>Of note, and not included in the Task View is the package</p>
 <ul>
 <li><a href="https://cran.r-project.org/web/packages/MDPtoolbox/index.html">MDPtoolbox</a> - Markov Decision Processes Toolbox</li>
-</ul>
-</div>
-<div id="cost-effectiveness-analysis" class="section level2">
-<h2>Cost-effectiveness analysis</h2>
-<ul>
-<li><a href="https://cran.r-project.org/web/packages/BCEA/index.html">BCEA</a> - Bayesian Cost Effectiveness Analysis</li>
-<li><a href="https://cran.r-project.org/web/packages/DALY/index.html">DALY</a> - The DALY Calculator - Graphical User Interface for Probabilistic DALY Calculation in R</li>
-<li><a href="https://cran.r-project.org/web/packages/heemod/index.html">heemod</a> - Models for Health Economic Evaluation</li>
-<li><a href>iSQoL2</a> - Integration of Survival with QoL or Cost</li>
-<li><a href="http://vnijs.github.io/radiant/">radiant</a> - Business Analytics using R and Shiny</li>
-<li><a href="https://cran.r-project.org/web/packages/QoLR/index.html">QoLR</a> - Analysis of Health-Related Quality of Life in Oncology</li>
-<li><a href="https://cran.rstudio.com/web/packages/PROscorer/index.html">PROscorer</a> - Functions to Score Commonly-Used Patient-Reported Outcome (PRO) Measures and Other Psychometric Instruments</li>
-<li><p><a href="http://arvore.r-forge.r-project.org/">ArvoRe</a> - Cost-effectiveness Analysis (CEA) implementation for R oriented to compute problems that involve simple decision tree models and Markov models. It offer a graphic user interface (GUI) developed in Tcl/Tk. This graphical interface simplifies the decision tree creation task and its manipulation, such as, nodes addition, probability values definition, node kind configuration, etc.</p></li>
-<li><p><a href="https://www.rdocumentation.org/packages/demography/versions/1.20">demography</a> - Forecasting Mortality, Fertility, Migration and Population Data</p></li>
 </ul>
 </div>
 <div id="visualisation" class="section level2">
@@ -195,6 +194,12 @@ $(document).ready(function () {
 <p>These packages contain data sets to use as training data or toy examples.</p>
 <ul>
 <li><a href="https://github.com/hadley/babynames">rgho</a> - Access WHO Global Health Observatory Data from R</li>
+</ul>
+</div>
+<div id="miscellaneous" class="section level2">
+<h2>Miscellaneous</h2>
+<ul>
+<li><a href="https://www.rdocumentation.org/packages/demography/versions/1.20">demography</a> - Forecasting Mortality, Fertility, Migration and Population Data</li>
 </ul>
 <p>You can learn more about packages in R with the <a href="https://cran.r-project.org/web/views/">CRAN task views</a>.</p>
 </div>
