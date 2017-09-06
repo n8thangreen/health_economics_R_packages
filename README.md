@@ -30,7 +30,7 @@ Cost-effectiveness analysis
 -   [BCEA](https://cran.r-project.org/web/packages/BCEA/index.html) - Bayesian Cost Effectiveness Analysis
 -   [DALY](https://cran.r-project.org/web/packages/DALY/index.html) - The DALY Calculator - Graphical User Interface for Probabilistic DALY Calculation in R
 -   [heemod](https://cran.r-project.org/web/packages/heemod/index.html) - Models for Health Economic Evaluation
--   [iSQoL2]() - Integration of Survival with QoL or Cost
+-   [iSQoL2](http://sites.stat.sinica.edu.tw/isqol/) - Integration of Survival with QoL or Cost
 -   [radiant](http://vnijs.github.io/radiant/) - Business Analytics using R and Shiny
 -   [QoLR](https://cran.r-project.org/web/packages/QoLR/index.html) - Analysis of Health-Related Quality of Life in Oncology
 -   [PROscorer](https://cran.rstudio.com/web/packages/PROscorer/index.html) - Functions to Score Commonly-Used Patient-Reported Outcome (PRO) Measures and Other Psychometric Instruments
