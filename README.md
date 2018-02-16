@@ -30,6 +30,7 @@ Cost-effectiveness analysis
 -   [BCEA](https://cran.r-project.org/web/packages/BCEA/index.html) - Bayesian Cost Effectiveness Analysis
 -   [DALY](https://cran.r-project.org/web/packages/DALY/index.html) - The DALY Calculator - Graphical User Interface for Probabilistic DALY Calculation in R
 -   [heemod](https://cran.r-project.org/web/packages/heemod/index.html) - Models for Health Economic Evaluation
+-   [hesim](http://innovationvalueinitiative.github.io/hesim/) - Heath economic simulation modeling and decision analysis 
 -   [iSQoL2](http://sites.stat.sinica.edu.tw/isqol/) - Integration of Survival with QoL or Cost
 -   [radiant](http://vnijs.github.io/radiant/) - Business Analytics using R and Shiny
 -   [QoLR](https://cran.r-project.org/web/packages/QoLR/index.html) - Analysis of Health-Related Quality of Life in Oncology
@@ -88,12 +89,14 @@ Data
 These packages contain data sets to use as training data or toy examples.
 
 -   [rgho](https://github.com/hadley/babynames) - Access WHO Global Health Observatory Data from R
+-   [AER](https://cran.r-project.org/web/packages/AER/index.html) Lots of data sets and some other code from the book Christian Kleiber and Achim Zeileis (2008), Applied Econometrics with R
 
 
 Miscellaneous
 -------------
 
 - [demography](https://www.rdocumentation.org/packages/demography/versions/1.20) - Forecasting Mortality, Fertility, Migration and Population Data
-
+- [ROCR](https://cran.r-project.org/web/packages/ROCR/index.html) - Visualizing the Performance of Scoring Classifiers
+- [pROC](https://cran.r-project.org/web/packages/pROC/index.html) - Display and Analyze ROC Curves
 
 You can learn more about packages in R with the [CRAN task views](https://cran.r-project.org/web/views/).
