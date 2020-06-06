@@ -36,7 +36,9 @@ Cost-effectiveness analysis
 -   [QoLR](https://cran.r-project.org/web/packages/QoLR/index.html) - Analysis of Health-Related Quality of Life in Oncology
 -   [PROscorer](https://cran.rstudio.com/web/packages/PROscorer/index.html) - Functions to Score Commonly-Used Patient-Reported Outcome (PRO) Measures and Other Psychometric Instruments
 -   [ArvoRe](http://arvore.r-forge.r-project.org/) - Cost-effectiveness Analysis (CEA) implementation for R oriented to compute problems that involve simple decision tree models and Markov models. It offer a graphic user interface (GUI) developed in Tcl/Tk. This graphical interface simplifies the decision tree creation task and its manipulation, such as, nodes addition, probability values definition, node kind configuration, etc.
-
+-   [heRomod2](https://github.com/jrdnmdhl/heRomod2) - Reproducible cost-effectiveness modeling
+-   [HEdtree](https://github.com/petedodd/HEdtree) - Utilities for decision tree like models in health economics
+-   [DALYcalculator](https://github.com/TuftsCEVR/DALYcalculator) - DALY Calculator R Package
 
 Decision trees
 --------------
@@ -61,7 +63,9 @@ Some package not included:
 
 -   [ggm](https://cran.r-project.org/web/packages/ggm/index.html) - Functions for graphical Markov models
 -   [rakeR](https://cran.r-project.org/web/packages/rakeR/index.html) - Easy Spatial Microsimulation (Raking) in R
-
+-   [des](https://github.com/matloff/des) - Discrete-Event Simulation in R
+-   [MicSim](https://github.com/cran/MicSim) - Performing Continuous-Time Microsimulation
+-   [simmer](https://github.com/r-simmer/simmer) - Discrete-Event Simulation for R
 
 
 Optimal decision processes
