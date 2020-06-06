@@ -64,7 +64,6 @@ Some package not included:
 -   [ggm](https://cran.r-project.org/web/packages/ggm/index.html) - Functions for graphical Markov models
 -   [rakeR](https://cran.r-project.org/web/packages/rakeR/index.html) - Easy Spatial Microsimulation (Raking) in R
 -   [des](https://github.com/matloff/des) - Discrete-Event Simulation in R
--   [MicSim](https://github.com/cran/MicSim) - Performing Continuous-Time Microsimulation
 -   [simmer](https://github.com/r-simmer/simmer) - Discrete-Event Simulation for R
 
 
