@@ -39,6 +39,7 @@ Cost-effectiveness analysis
 -   [heRomod2](https://github.com/jrdnmdhl/heRomod2) - Reproducible cost-effectiveness modeling
 -   [HEdtree](https://github.com/petedodd/HEdtree) - Utilities for decision tree like models in health economics
 -   [DALYcalculator](https://github.com/TuftsCEVR/DALYcalculator) - DALY Calculator R Package
+-   [ICEinfer](https://cran.r-project.org/web/packages/ICEinfer/index.html) - Incremental Cost-Effectiveness Inference using Two Unbiased Samples
 
 Decision trees
 --------------
