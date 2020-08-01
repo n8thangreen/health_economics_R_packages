@@ -40,6 +40,8 @@ Cost-effectiveness analysis
 -   [HEdtree](https://github.com/petedodd/HEdtree) - Utilities for decision tree like models in health economics
 -   [DALYcalculator](https://github.com/TuftsCEVR/DALYcalculator) - DALY Calculator R Package
 -   [ICEinfer](https://cran.r-project.org/web/packages/ICEinfer/index.html) - Incremental Cost-Effectiveness Inference using Two Unbiased Samples
+-   [dampack](https://github.com/feralaes/dampack) - an R package for decision-analytic modeling
+
 
 Decision trees
 --------------
