@@ -30,20 +30,19 @@ Cost-effectiveness analysis
 | Name | Description | Package | CRAN downloads |
 |------|-------------|---------|----------------|
 | [BCEA](https://cran.r-project.org/web/packages/BCEA/index.html) | Bayesian Cost Effectiveness Analysis | :white_check_mark: |![CRAN_Download_Badge](http://cranlogs.r-pkg.org/badges/BCEA) |
-
--   [DALY](https://cran.r-project.org/web/packages/DALY/index.html) - The DALY Calculator - Graphical User Interface for Probabilistic DALY Calculation in R
--   [heemod](https://cran.r-project.org/web/packages/heemod/index.html) - Models for Health Economic Evaluation
--   [hesim](http://innovationvalueinitiative.github.io/hesim/) - Heath economic simulation modeling and decision analysis 
--   [iSQoL2](http://sites.stat.sinica.edu.tw/isqol/) - Integration of Survival with QoL or Cost
--   [radiant](http://vnijs.github.io/radiant/) - Business Analytics using R and Shiny
--   [QoLR](https://cran.r-project.org/web/packages/QoLR/index.html) - Analysis of Health-Related Quality of Life in Oncology
--   [PROscorer](https://cran.rstudio.com/web/packages/PROscorer/index.html) - Functions to Score Commonly-Used Patient-Reported Outcome (PRO) Measures and Other Psychometric Instruments
--   [ArvoRe](http://arvore.r-forge.r-project.org/) - Cost-effectiveness Analysis (CEA) implementation for R oriented to compute problems that involve simple decision tree models and Markov models. It offer a graphic user interface (GUI) developed in Tcl/Tk. This graphical interface simplifies the decision tree creation task and its manipulation, such as, nodes addition, probability values definition, node kind configuration, etc.
--   [heRomod2](https://github.com/jrdnmdhl/heRomod2) - Reproducible cost-effectiveness modeling
--   [HEdtree](https://github.com/petedodd/HEdtree) - Utilities for decision tree like models in health economics
--   [DALYcalculator](https://github.com/TuftsCEVR/DALYcalculator) - DALY Calculator R Package
--   [ICEinfer](https://cran.r-project.org/web/packages/ICEinfer/index.html) - Incremental Cost-Effectiveness Inference using Two Unbiased Samples
--   [dampack](https://github.com/feralaes/dampack) - an R package for decision-analytic modeling
+| [DALY](https://cran.r-project.org/web/packages/DALY/index.html) | The DALY Calculator - Graphical User Interface for Probabilistic DALY Calculation in R | | |
+| [heemod](https://cran.r-project.org/web/packages/heemod/index.html) | Models for Health Economic Evaluation | | |
+| [hesim](http://innovationvalueinitiative.github.io/hesim/) | Heath economic simulation modeling and decision analysis | | |
+| [iSQoL2](http://sites.stat.sinica.edu.tw/isqol/) | Integration of Survival with QoL or Cost | | |
+| [radiant](http://vnijs.github.io/radiant/) | Business Analytics using R and Shiny | | |
+| [QoLR](https://cran.r-project.org/web/packages/QoLR/index.html) | Analysis of Health-Related Quality of Life in Oncology | | |
+| [PROscorer](https://cran.rstudio.com/web/packages/PROscorer/index.html) | Functions to Score Commonly-Used Patient-Reported Outcome (PRO) Measures and Other Psychometric Instruments | | |
+| [ArvoRe](http://arvore.r-forge.r-project.org/) | Cost-effectiveness Analysis (CEA) implementation for R oriented to compute problems that involve simple decision tree models and Markov models. It offer a graphic user interface (GUI) developed in Tcl/Tk. This graphical interface simplifies the decision tree creation task and its manipulation, such as, nodes addition, probability values definition, node kind configuration, etc. | | |
+| [heRomod2](https://github.com/jrdnmdhl/heRomod2) | Reproducible cost-effectiveness modeling | | |
+| [HEdtree](https://github.com/petedodd/HEdtree) | Utilities for decision tree like models in health economics | | |
+| [DALYcalculator](https://github.com/TuftsCEVR/DALYcalculator) | DALY Calculator R Package | | |
+| [ICEinfer](https://cran.r-project.org/web/packages/ICEinfer/index.html) | Incremental Cost-Effectiveness Inference using Two Unbiased Samples | | |
+| [dampack](https://github.com/feralaes/dampack) | An R package for decision-analytic modeling | | |
 
 
 Decision trees
