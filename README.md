@@ -30,7 +30,7 @@ Cost-effectiveness analysis
 | Name | Description | Package | CRAN downloads |
 |------|-------------|---------|----------------|
 | [BCEA](https://cran.r-project.org/web/packages/BCEA/index.html) | Bayesian Cost Effectiveness Analysis | :white_check_mark: |![CRAN_Download_Badge](http://cranlogs.r-pkg.org/badges/BCEA) |
-| [DALY](https://cran.r-project.org/web/packages/DALY/index.html) | The DALY Calculator - Graphical User Interface for Probabilistic DALY Calculation in R | :white_check_mark: | | ![Cranlogs Downloads](http://cranlogs.r-pkg.org/badges/grand-total/DALY)](http://cran.r-project.org/package=DALY)
+| [DALY](https://cran.r-project.org/web/packages/DALY/index.html) | The DALY Calculator - Graphical User Interface for Probabilistic DALY Calculation in R | :white_check_mark: | | ![CRAN_Download_Badge](http://cranlogs.r-pkg.org/badges/grand-total/DALY) |
 | [heemod](https://cran.r-project.org/web/packages/heemod/index.html) | Models for Health Economic Evaluation | :white_check_mark: | |
 | [hesim](http://innovationvalueinitiative.github.io/hesim/) | Heath economic simulation modeling and decision analysis | :white_check_mark: | |
 | [iSQoL2](http://sites.stat.sinica.edu.tw/isqol/) | Integration of Survival with QoL or Cost | | |
