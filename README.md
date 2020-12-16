@@ -27,7 +27,7 @@ Below we list the most useful R packages that we know of for each area.
 Cost-effectiveness analysis
 ---------------------------
 
-| Name | Description | Package | CRAN downloads |
+| Name | Description | Package | CRAN (downloads) |
 |------|-------------|---------|----------------|
 | [BCEA](https://cran.r-project.org/web/packages/BCEA/index.html) | Bayesian Cost Effectiveness Analysis | :white_check_mark: |![CRAN_Download_Badge](http://cranlogs.r-pkg.org/badges/BCEA) |
 | [DALY](https://cran.r-project.org/web/packages/DALY/index.html) | The DALY Calculator - Graphical User Interface for Probabilistic DALY Calculation in R | :white_check_mark: | | ![CRAN_Download_Badge](http://cranlogs.r-pkg.org/badges/grand-total/DALY) |
