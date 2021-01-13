@@ -35,8 +35,8 @@ Cost-effectiveness analysis
 | [hesim](http://innovationvalueinitiative.github.io/hesim/) | Heath economic simulation modeling and decision analysis | :white_check_mark: | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/hesim)](https://cran.r-project.org/package=hesim) |
 | [iSQoL2](http://sites.stat.sinica.edu.tw/isqol/) | Integration of Survival with QoL or Cost | | |
 | [radiant](http://vnijs.github.io/radiant/) | Business Analytics using R and Shiny | | [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/radiant)](https://CRAN.R-project.org/package=radiant) |
-| [QoLR](https://cran.r-project.org/web/packages/QoLR/index.html) | Analysis of Health-Related Quality of Life in Oncology | :white_check_mark: | |
-| [PROscorer](https://cran.rstudio.com/web/packages/PROscorer/index.html) | Functions to Score Commonly-Used Patient-Reported Outcome (PRO) Measures and Other Psychometric Instruments | :white_check_mark: | |
+| [QoLR](https://cran.r-project.org/web/packages/QoLR/index.html) | Analysis of Health-Related Quality of Life in Oncology | :white_check_mark: | ![](https://www.r-pkg.org/badges/version/QoLR)  |
+| [PROscorer](https://cran.rstudio.com/web/packages/PROscorer/index.html) | Functions to Score Commonly-Used Patient-Reported Outcome (PRO) Measures and Other Psychometric Instruments | :white_check_mark: | ![](https://www.r-pkg.org/badges/version/PROscorer) |
 | [ArvoRe](http://arvore.r-forge.r-project.org/) | Cost-effectiveness Analysis (CEA) implementation for R oriented to compute problems that involve simple decision tree models and Markov models. It offer a graphic user interface (GUI) developed in Tcl/Tk. | | |
 | [heRomod2](https://github.com/jrdnmdhl/heRomod2) | Reproducible cost-effectiveness modeling | :white_check_mark: | |
 | [HEdtree](https://github.com/petedodd/HEdtree) | Utilities for decision tree like models in health economics | :white_check_mark: | |
