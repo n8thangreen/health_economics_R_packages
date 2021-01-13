@@ -38,11 +38,11 @@ Cost-effectiveness analysis
 | [QoLR](https://cran.r-project.org/web/packages/QoLR/index.html) | Analysis of Health-Related Quality of Life in Oncology | :white_check_mark: | ![](https://www.r-pkg.org/badges/version/QoLR)  |
 | [PROscorer](https://cran.rstudio.com/web/packages/PROscorer/index.html) | Functions to Score Commonly-Used Patient-Reported Outcome (PRO) Measures and Other Psychometric Instruments | :white_check_mark: | ![](https://www.r-pkg.org/badges/version/PROscorer) |
 | [ArvoRe](http://arvore.r-forge.r-project.org/) | Cost-effectiveness Analysis (CEA) implementation for R oriented to compute problems that involve simple decision tree models and Markov models. It offer a graphic user interface (GUI) developed in Tcl/Tk. | | |
-| [heRomod2](https://github.com/jrdnmdhl/heRomod2) | Reproducible cost-effectiveness modeling | :white_check_mark: | |
-| [HEdtree](https://github.com/petedodd/HEdtree) | Utilities for decision tree like models in health economics | :white_check_mark: | |
+| [heRomod2](https://github.com/jrdnmdhl/heRomod2) | Reproducible cost-effectiveness modeling | :white_check_mark: | ![](https://www.r-pkg.org/badges/version/BheRomod2) |
+| [HEdtree](https://github.com/petedodd/HEdtree) | Utilities for decision tree like models in health economics | :white_check_mark: | ![](https://www.r-pkg.org/badges/version/HEdtree) |
 | [DALYcalculator](https://github.com/TuftsCEVR/DALYcalculator) | DALY Calculator R Package | | |
-| [ICEinfer](https://cran.r-project.org/web/packages/ICEinfer/index.html) | Incremental Cost-Effectiveness Inference using Two Unbiased Samples | :white_check_mark: | |
-| [dampack](https://github.com/feralaes/dampack) | An R package for decision-analytic modeling | :white_check_mark: | |
+| [ICEinfer](https://cran.r-project.org/web/packages/ICEinfer/index.html) | Incremental Cost-Effectiveness Inference using Two Unbiased Samples | :white_check_mark: | ![](https://www.r-pkg.org/badges/version/ICEinfer) |
+| [dampack](https://github.com/feralaes/dampack) | An R package for decision-analytic modeling | :white_check_mark: | ![](https://www.r-pkg.org/badges/version/dampack) |
 
 
 Decision trees
