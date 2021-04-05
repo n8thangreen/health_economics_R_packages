@@ -80,6 +80,7 @@ Packages for optimal control, dynamic programming or maximum utility theory woul
 Of note, and not included in the Task View is the package
 
 -   [MDPtoolbox](https://cran.r-project.org/web/packages/MDPtoolbox/index.html) - Markov Decision Processes Toolbox
+-   [mdp](https://github.com/relund/mdp)
 
 
 Visualisation
