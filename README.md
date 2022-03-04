@@ -43,7 +43,7 @@ Cost-effectiveness analysis
 | [DALYcalculator](https://github.com/TuftsCEVR/DALYcalculator) | DALY Calculator R Package | | |
 | [ICEinfer](https://cran.r-project.org/web/packages/ICEinfer/index.html) | Incremental Cost-Effectiveness Inference using Two Unbiased Samples | :white_check_mark: | ![](https://www.r-pkg.org/badges/version/ICEinfer) |
 | [dampack](https://github.com/feralaes/dampack) | An R package for decision-analytic modeling | :white_check_mark: | ![](https://www.r-pkg.org/badges/version/dampack) |
-
+| [rdecision](https://cran.rstudio.com/web/packages/rdecision/index.html) | lasses and functions for modelling health care interventions using decision trees and semi-Markov models. | :white_check_mark: | ![](https://www.r-pkg.org/badges/version/rdecision) |
 
 Decision trees
 --------------
