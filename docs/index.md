@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Banner" style="width:100%; border-radius: 10px;">
+
 #### BCEA: Bayesian Cost Effectiveness Analysis
 <img align="left" src="hex_files/BCEA.png" width="150" style="padding-right: 20px;">
 [*BCEA*](https://cran.r-project.org/web/packages/BCEA/index.html)
