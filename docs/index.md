@@ -1,6 +1,6 @@
 <div style="position: relative; text-align: center; color: white;">
 
-  <img src="banner.png" alt="Banner" style="width:100%; border-radius: 10px;">
+  <img src="banner.jpg" alt="Banner" style="width:100%; border-radius: 10px;">
 
   <h1 style="
       position: absolute;
