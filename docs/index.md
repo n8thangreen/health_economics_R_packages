@@ -1,3 +1,7 @@
+<head>
+  <title> </title>
+</head>
+
 <div style="position: relative; text-align: center; color: white; width: 100%;">
 
   <!-- Full-width banner image -->
