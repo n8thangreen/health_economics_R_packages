@@ -1,13 +1,13 @@
 <!-- Navigation Menu -->
-<nav style="background-color: #333; padding: 10px;">
+<nav style="background-color: #333; padding: 15px 0;">
   <ul style="list-style-type: none; margin: 0; padding: 0; text-align: center;">
-    <li style="display: inline; margin-right: 20px;">
+    <li style="display: inline; margin: 0 30px;">
       <a href="#home" style="color: white; text-decoration: none; font-size: 18px;">Home</a>
     </li>
-    <li style="display: inline; margin-right: 20px;">
+    <li style="display: inline; margin: 0 30px;">
       <a href="#about" style="color: white; text-decoration: none; font-size: 18px;">About</a>
     </li>
-    <li style="display: inline; margin-right: 20px;">
+    <li style="display: inline; margin: 0 30px;">
       <a href="#contact" style="color: white; text-decoration: none; font-size: 18px;">Contact</a>
     </li>
   </ul>
