@@ -1,4 +1,21 @@
-<img src="banner.png" alt="Banner" style="width:100%; border-radius: 10px;">
+<div style="position: relative; text-align: center; color: white;">
+
+  <img src="banner.png" alt="Banner" style="width:100%; border-radius: 10px;">
+
+  <h1 style="
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 3em;
+      background-color: rgba(0, 0, 0, 0.4);
+      padding: 20px;
+      border-radius: 10px;
+    ">
+    Health Economics R Packages
+  </h1>
+
+</div>
 
 #### BCEA: Bayesian Cost Effectiveness Analysis
 <img align="left" src="hex_files/BCEA.png" width="150" style="padding-right: 20px;">
