@@ -1,7 +1,9 @@
-<div style="position: relative; text-align: center; color: white;">
+<div style="position: relative; text-align: center; color: white; width: 100%;">
 
-  <img src="banner.png" alt="Banner" style="width:100%; border-radius: 10px;">
+  <!-- Full-width banner image -->
+  <img src="banner.png" alt="Banner" style="width: 100%; height: auto; border-radius: 0px;">
 
+  <!-- Title positioned over the banner -->
   <h1 style="
       position: absolute;
       top: 50%;
@@ -9,11 +11,13 @@
       transform: translate(-50%, -50%);
       font-size: 3em;
       margin: 0;
+      padding: 0;
     ">
     Health Economics R Packages
   </h1>
 
 </div>
+
 
 
 #### BCEA: Bayesian Cost Effectiveness Analysis
