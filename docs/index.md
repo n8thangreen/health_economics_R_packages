@@ -1,7 +1,7 @@
 <div style="position: relative; text-align: center; color: white; width: 100%;">
 
   <!-- Full-width banner image -->
-  <img src="banner.png" alt="Banner" style="width: 100%; height: auto; border-radius: 0px;">
+  <img src="banner.jpg" alt="Banner" style="width: 100%; height: auto; border-radius: 0px;">
 
   <!-- Title positioned over the banner -->
   <h1 style="
