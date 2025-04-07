@@ -6,7 +6,7 @@ Produces an economic evaluation of a Bayesian model in the form of MCMC simulati
 <div style="clear: both;"></div>
 <button style="margin-top: 10px; background-color: #4CAF50; color: white; padding: 5px 10px; border: none; border-radius: 5px;">Available</button>
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 #### hesim
 <img align="left" src="hex_files/hesim.png" width="150" style="padding-right: 20px;">
@@ -15,7 +15,7 @@ Produces an economic evaluation of a Bayesian model in the form of MCMC simulati
 <div style="clear: both;"></div>
 <button style="margin-top: 10px; background-color: #4CAF50; color: white; padding: 5px 10px; border: none; border-radius: 5px;">Available</button>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 #### radiant
 <img align="left" src="hex_files/radiant.png" width="150" style="padding-right: 20px;">
@@ -24,7 +24,7 @@ Produces an economic evaluation of a Bayesian model in the form of MCMC simulati
 <div style="clear: both;"></div>
 <button style="margin-top: 10px; background-color: orange; color: white; padding: 5px 10px; border: none; border-radius: 5px;">Under Development</button>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <img align="left" src="hex_files/badge-not-available.png" width="150" style="padding-right: 20px;">
 <div style="clear: both;"></div>
